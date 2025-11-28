@@ -1,5 +1,5 @@
 // Q6.Write a program to input any three sides.check they form a triangle or not.If they form a triangle,then determine the type of triangle being formed
-
+//date: 4th october,2025
 import java.util.Scanner;
 
 public class TriangleCheck {
@@ -33,3 +33,4 @@ public class TriangleCheck {
         sc.close();
     }
 }
+
